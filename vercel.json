@@ -1,6 +1,7 @@
 {
   "version": 2,
+  "buildCommand": false,
+  "outputDirectory": "app",
   "cleanUrls": true,
-  "public": true,
-  "outputDirectory": "app"
+  "public": true
 }
